@@ -5,11 +5,11 @@ Nessa semana de outubro a Rocketseat desenvolveu um projeto especial em comemora
 
 O site tem como objetivo aproximar todas as pessoas à essas crianças que se encontram nos orfanatos. 
 
-(imagem)
+![](/template/happy.jpg)
 
 ## O que é o Next Level Week?
 ### Um evento para dar o próximo passo na sua evolução como programadora ou programador. 
-(imagem)
+![](/template/nlw.jpg)
 
 O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
