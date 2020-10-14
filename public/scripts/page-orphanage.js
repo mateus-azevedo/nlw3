@@ -24,3 +24,9 @@ const icon = L.icon({
 L
 .marker([-22.9025661,-43.2876696], { icon })
 .addTo(map)
+
+// image gallery
+
+function selectImage(event) {
+  console.log('cliquei no botao');
+}
