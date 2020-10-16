@@ -9,7 +9,7 @@ module.exports = {
   },
 
   orphanages(req, res) {
-    return res.render('orphanges')
+    return res.render('orphanages')
   },
 
   createOrphanage(req, res) {
