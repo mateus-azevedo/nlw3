@@ -1,0 +1,24 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Nessa semana de outubro a Rocketseat desenvolveu um projeto especial em comemoração ao dia das crianças. Capaz de cadastrar orfanatos, encontrar e localizar. Tudo feito de forma online.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus-azevedo/nlw3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateus-azevedo/nlw3/issues"
+  },
+  "homepage": "https://github.com/mateus-azevedo/nlw3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
