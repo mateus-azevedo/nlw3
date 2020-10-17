@@ -1,1 +1,5 @@
+# Ignore depedence node
 node_modules/
+
+# Ignore .sqlite
+*.sqlite
